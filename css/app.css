@@ -40,3 +40,18 @@ body {
 #about p span {
   font-style: italic;
 }
+
+/* Color Name */
+h4 {
+  color: red;
+}
+
+/* RGB */
+h5 {
+  color: rgb(255, 255, 0);
+}
+
+/* Hex */
+h6 {
+  color: #c3c3c3;
+}
